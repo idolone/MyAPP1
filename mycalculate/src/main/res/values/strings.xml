@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyCalculate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_message">Caculation Test</string>
+    <string name="title_image_info">title image</string>
+    <string name="title_button_msg">Enter</string>
+    <string name="high_score_msg">High Score: %d </string>
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonc">c</string>
+    <string name="buttonok">ok</string>
+    <string name="equal">=</string>
+    <string name="question">\?</string>
+    <string name="cur_score">Score:%d</string>
+    <string name="input">Your Answer</string>
+    <string name="lose_msg">lose image</string>
+    <string name="win_msg">win image</string>
+    <string name="lose_info">You Lose!</string>
+    <string name="win_info">You Win!</string>
+    <string name="lose_score">Your Score: %d</string>
+    <string name="win_score">Your Score: %d</string>
+    <string name="return_btn">return</string>
+    <string name="answer_correct_message">Correct!Go on!</string>
+    <string name="btn_reset">reset</string>
+
+
+</resources>

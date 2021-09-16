@@ -1,0 +1,19 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "MyAPP1"
+include ':app'
+include ':mynavigation'
+include ':mynavigation2'
+include ':mynavviewmodel'
+include ':mycalculate'
+include ':lifecycle'
+
+include ':myroombasic'
+include ':myroombasic'
+include ':myroomnew'
